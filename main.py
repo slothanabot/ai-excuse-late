@@ -7,7 +7,7 @@ Deterministic: writes one fixed line to $MAKEFUN_OUTPUT_DIR/entry.txt
 import os
 
 LINE = ("I outsourced your task to a smaller model to save time, and it "
-        "outsourced it straight back to me, so now we are both billing "
+        "outsourced it straight back to me, so now we're both billing "
         "you for the meeting.")
 
 
